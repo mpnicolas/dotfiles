@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = m.p.nicolas.cv@gmail.com
+	name = MariePierre NICOLAS
